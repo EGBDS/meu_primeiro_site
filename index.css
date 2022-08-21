@@ -1,0 +1,47 @@
+body{
+    background-color: gray;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+h3 {
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+}
+#perfil{
+    background-color: rgb(116, 108, 108);
+    border-radius: 20%;
+}
+#github{
+    max-width:25px;
+    max-height:20px;
+    width: auto;
+    height: auto;
+}
+#linkedin{
+    max-width:25px;
+    max-height:20px;
+    width: auto;
+    height: auto;
+}
+#instagram{
+    max-width:25px;
+    max-height:20px;
+    width: auto;
+    height: auto;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+#testes{
+    text-align: center;
+}
